@@ -140,4 +140,8 @@ select_all_products(connection)
 select_by_price_and_quantity(connection, (100, 5))
 search_by_word(connection, 'шоколад')
 
+
+
+
+
 connection.close()
